@@ -1,2 +1,2 @@
-# specs
-Bidao papers and specifications
+# Bidao Specifications
+Specification documents of the Bidao system
